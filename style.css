@@ -1,0 +1,26 @@
+h1 {
+    font-size: 50px;
+    color: lightseagreen;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    text-shadow: 3px 3px 1px lightseagreen;
+}  
+
+p{
+    color: lightseagreen;
+    font-size: 20px;
+}
+span{
+    color: black;
+}
+body {
+    width: 1200px;
+    margin: 0 auto;
+    background-color:lightyellow;
+    padding: 0 20px 20px 20px;
+  }
+  #mi-imagen {
+    display: block;
+    margin: 10 auto;
+  }
