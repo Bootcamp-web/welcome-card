@@ -20,7 +20,8 @@ body {
     background-color:lightyellow;
     padding: 0 20px 20px 20px;
   }
-  #mi-imagen {
+  
+#mi-imagen {
     display: block;
     margin: 10 auto;
   }
